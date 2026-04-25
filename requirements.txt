@@ -1,3 +1,1 @@
-inference_sdk
-PIL
-streamlit
+inference_sdk ==1.2.5
